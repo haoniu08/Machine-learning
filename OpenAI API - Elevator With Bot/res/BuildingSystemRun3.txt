@@ -1,0 +1,332 @@
+"C:\Users\Hao Niu\.jdks\corretto-11.0.21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\lib\idea_rt.jar=54737:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Hao Niu\Documents\NEU\2024 Spring\CS5004 40381 Object-Oriented Design\Final Project\ElevatorProjectModelRelease-main\target\classes;C:\Users\Hao Niu\.m2\repository\org\json\json\20231013\json-20231013.jar" MainConsole
+Welcome to the Elevator System!
+This system will simulate the operation of an elevator system.
+The system will be initialized with the following parameters:
+Number of floors: 10
+Number of elevators: 1
+Elevator Capacity: 3
+The system will then be run and the results will be displayed.
+
+Press enter to continue.
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+r
+Enter the start floor:
+8
+Enter the end floor:
+2
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+Invalid input. Please try again.
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 4 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 3 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 2 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 1 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 1 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 3 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+r
+Enter the start floor:
+3
+Enter the end floor:
+6
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+3 -> 6
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+Invalid input. Please try again.
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+3 -> 6
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+3 -> 6
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 9 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+3 -> 6
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 9 Direction: - Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+3 -> 6
+Down Requests:
+8 -> 2
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 8: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 3 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+s
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Up Requests:
+3 -> 6
+Down Requests:
+
+Enter 'r' to add a request, 's' to step one time unit forward, 'h' to stop the elevator system, 'c' to start the elevator system,  or 'q' to quit the program.
+q
+Quitting program.
+
+Process finished with exit code 0

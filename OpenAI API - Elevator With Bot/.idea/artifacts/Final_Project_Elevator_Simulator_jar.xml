@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Final Project Elevator Simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_Project_Elevator_Simulator_jar</output-path>
+    <root id="archive" name="ElevatorVersionPlusPlus.jar">
+      <element id="module-output" name="ElevatorVersionPlusPlus" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20231013/json-20231013.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

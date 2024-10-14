@@ -1,0 +1,442 @@
+"C:\Users\Hao Niu\.jdks\corretto-11.0.21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\lib\idea_rt.jar=54659:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Hao Niu\Documents\NEU\2024 Spring\CS5004 40381 Object-Oriented Design\Final Project\ElevatorProjectModelRelease-main\target\classes;C:\Users\Hao Niu\.m2\repository\org\json\json\20231013\json-20231013.jar" MainConsole
+Welcome to the Elevator System!
+This system will simulate the operation of an elevator system.
+The system will be initialized with the following parameters:
+Number of floors: 10
+Number of elevators: 1
+Elevator Capacity: 3
+The system will then be run and the results will be displayed.
+
+Press enter to continue.
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+0 -> 5
+2 -> 7
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 0 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 1 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 2: Requested
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 2 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 3 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 5: Requested
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 7: Requested
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 9 Direction: ^ Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 9 Direction: - Door Closed: true Door Open Timer: 0 End Wait Timer: 5 Out of Service: false Taking Requests: true
+Floor Requests: 
+Up Requests:
+Down Requests:
+4 -> 1
+6 -> 3
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 8 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Floor 6: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 7 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Floor 6: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Floor 6: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 6 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 5 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Floor 4: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: false Door Open Timer: 3 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: false Door Open Timer: 2 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: false Door Open Timer: 1 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 4 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Up Requests:
+Down Requests:
+
+Elevator System Status: Running
+Elevator Reports:
+Elevator 0 Report: Current Floor: 3 Direction: v Door Closed: true Door Open Timer: 0 End Wait Timer: 0 Out of Service: false Taking Requests: false
+Floor Requests: 
+Floor 1: Requested
+Floor 3: Requested
+Up Requests:
+Down Requests:
+
+**********************
+
+Process finished with exit code 0
